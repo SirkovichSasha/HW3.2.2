@@ -1,0 +1,2 @@
+rootProject.name='CalculatorHW3.1.2'
+include ':app'
